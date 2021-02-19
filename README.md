@@ -6,4 +6,3 @@ React and TypeScript
 `````bash
 yarn add
 yarn start
-````
