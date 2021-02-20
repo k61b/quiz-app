@@ -4,5 +4,5 @@ This is a Quiz app.
 React and TypeScript
 ## Setup
 `````bash
-yarn add
+yarn
 yarn start
